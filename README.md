@@ -14,7 +14,7 @@
   
  🌱 I’m currently learning **React, Next.js, Database**
 
-💬 I am looking for a new job as **web developer**
+💬 I am looking for a new job as a **web developer**
 
 
 
